@@ -1,12 +1,12 @@
-# [Birdie]
+# Birdie
 
-Welcome to [Birdie] – A Smart Birdhouse Project
+Welcome to Birdie – A Smart Birdhouse Project
 
 ![Birdie](docs/images/birdhse.jpeg)
 
 ## Overview
 
-[Birdie] is an innovative initiative that brings together technology and nature. This project involves the creation of a Smart Birdhouse equipped with sensors to monitor the environment, capture images, videos, and audio recordings of birds in their natural habitat. The collected data is seamlessly transmitted to an AI-powered web platform, providing a comprehensive analysis of bird activity.
+Birdie is an innovative initiative that brings together technology and nature. This project involves the creation of a Smart Birdhouse equipped with sensors to monitor the environment, capture images, videos, and audio recordings of birds in their natural habitat. The collected data is seamlessly transmitted to an AI-powered web platform, providing a comprehensive analysis of bird activity.
 
 ## How It Works
 
