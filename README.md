@@ -2,7 +2,7 @@
 
 Welcome to [Birdie] – A Smart Birdhouse Project
 
-![Project Image](docs/images/birdhse.jpeg)
+![Birdie](docs/images/birdhse.jpeg)
 
 ## Overview
 
@@ -32,24 +32,6 @@ Welcome to [Birdie] – A Smart Birdhouse Project
 - AI-driven insights for a deeper understanding of bird behavior.
 - Subscription-based mobile app for enthusiasts to access exclusive data.
 
-## Getting Started
+## Flowchart
+![birdie flow chart](docs/images/flowchart.png)
 
-To set up the Smart Birdhouse and access the AI-powered web platform, follow the instructions in the [Documentation](docs/README.md).
-
-## Subscription Plans
-
-Explore our subscription plans on the [Mobile App](app/README.md) to gain exclusive access to the captivating world of birds.
-
-## Contributing
-
-We welcome contributions from the community! Check out the [Contribution Guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
----
-
-**[Your Project Name] - Connecting Nature with Innovation**
-
-For any inquiries, please contact [Your Contact Email].
